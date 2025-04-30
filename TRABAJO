@@ -1,1 +1,21 @@
 El grupo ivestigará todo lo relacionado con Github, Creación, historia, función, ventajas y desventajas, asi mismo se dividiran el tema y cada uno dará un informe detallado del tema, también deberan dar comentarios y aportes a la información dada por sus compañeros.
+
+Creación de GITHUB:
+GitHub fue creado en 2008 por Tom Preston-Werner, Chris Wanstrath, PJ Hyett y Scott Chacon como una plataforma para alojar y gestionar proyectos de software utilizando Git, un sistema de control de versiones creado por Linus Torvalds en 2005.
+
+Contexto previo:
+Antes de GitHub, los desarrolladores usaban herramientas como Subversion (SVN) o CVS, que eran menos eficientes para el trabajo distribuido. Git ofrecía una solución poderosa, pero era difícil de usar para muchos usuarios no expertos.
+
+¿Qué ofreecía GITHUB?
+GitHub combinó Git con una interfaz web amigable y varias funciones colaborativas como:
+- Repositorios remotos públicos y privados.
+- Control de versiones simplificado.
+- Pull requests y forks para facilitar la colaboración.
+- Issues para seguimiento de errores y tareas.
+- GitHub Pages para publicar sitios web directamente desde el repositorio.
+
+Crecimiento:
+GitHub creció rápidamente gracias a su facilidad de uso y a que ofrecía alojamiento gratuito para proyectos de código abierto. En poco tiempo se convirtió en el estándar de facto para el desarrollo colaborativo en la comunidad de software libre.
+
+Adquisición de Microsoft:
+En 2018, Microsoft compró GitHub por 7.5 mil millones de dólares. Aunque inicialmente generó dudas entre desarrolladores, la plataforma ha seguido creciendo y mejorando desde entonces.
